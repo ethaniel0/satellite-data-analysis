@@ -1,0 +1,13 @@
+/.DS_Store
+/.ipynb_checkpoints
+/__pycache__
+/classification.p
+/classifier1.p
+/clipped
+/feb19areas.p
+/feb19classifiertraining.p
+/feb19crop
+/files
+/metrics.csv
+/metrics.xlsx
+/training.p
